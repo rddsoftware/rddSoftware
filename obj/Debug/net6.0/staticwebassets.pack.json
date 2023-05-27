@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\bg-img.jpg"
     },
     {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\buffer.png",
+      "PackagePath": "staticwebassets\\images\\buffer.png"
+    },
+    {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\fithub.png",
       "PackagePath": "staticwebassets\\images\\fithub.png"
     },
@@ -47,6 +51,14 @@
     {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\outbreak.png",
       "PackagePath": "staticwebassets\\images\\outbreak.png"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\pagerep.png",
+      "PackagePath": "staticwebassets\\images\\pagerep.png"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\pcb.png",
+      "PackagePath": "staticwebassets\\images\\pcb.png"
     },
     {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\shell.png",

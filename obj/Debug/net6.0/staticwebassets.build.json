@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HjbyvN2wYQN3mErVTkdIjxsJvCCosW7+8wzWzBAoVdQ=",
+  "Hash": "Zgwz9Id3t9YZhmzrvtDyUqjS2M46LuhNMSigDVefeWA=",
   "Source": "rddSoftwareSite",
   "BasePath": "_content/rddSoftwareSite",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bg-img.jpg"
+    },
+    {
+      "Identity": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\buffer.png",
+      "SourceId": "rddSoftwareSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repos\\rddSoftwareSite\\wwwroot\\",
+      "BasePath": "_content/rddSoftwareSite",
+      "RelativePath": "images/buffer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\buffer.png"
     },
     {
       "Identity": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\fithub.png",
@@ -236,6 +253,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\outbreak.png"
+    },
+    {
+      "Identity": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\pagerep.png",
+      "SourceId": "rddSoftwareSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repos\\rddSoftwareSite\\wwwroot\\",
+      "BasePath": "_content/rddSoftwareSite",
+      "RelativePath": "images/pagerep.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pagerep.png"
+    },
+    {
+      "Identity": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\pcb.png",
+      "SourceId": "rddSoftwareSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repos\\rddSoftwareSite\\wwwroot\\",
+      "BasePath": "_content/rddSoftwareSite",
+      "RelativePath": "images/pcb.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pcb.png"
     },
     {
       "Identity": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\shell.png",
