@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Repos\rddSoftwareSite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Repos/rddSoftwareSite/Pages/Contact-Me.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1NZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Repos/rddSoftwareSite/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/rddSoftwareSite/Pages/Extra-Curriculars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0cmEtQ3VycmljdWxhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/rddSoftwareSite/Pages/I-was-here.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSS13YXMtaGVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Repos/rddSoftwareSite/Pages/Index.cshtml]
@@ -30,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Repos/rddSoftwareSite/Pages/Repositories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3NpdG9yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/rddSoftwareSite/Pages/RepositoryPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3NpdG9yeVBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/rddSoftwareSite/Pages/RepositoryPages/Outbreak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3NpdG9yeVBhZ2VzXE91dGJyZWFrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Repos/rddSoftwareSite/Pages/Shared/_ValidationScriptsPartial.cshtml]

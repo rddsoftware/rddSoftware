@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\bg-img.jpg"
     },
     {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\fithub.png",
+      "PackagePath": "staticwebassets\\images\\fithub.png"
+    },
+    {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\icons\\githubicon.png",
       "PackagePath": "staticwebassets\\images\\icons\\githubicon.png"
     },
@@ -31,6 +35,22 @@
     {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\mips-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\mips-logo.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\mips-logo.png",
+      "PackagePath": "staticwebassets\\images\\mips-logo.png"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\outbreak.png",
+      "PackagePath": "staticwebassets\\images\\outbreak.png"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\images\\shell.png",
+      "PackagePath": "staticwebassets\\images\\shell.png"
     },
     {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\js\\site.js",
@@ -263,6 +283,10 @@
     {
       "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Repos\\rddSoftwareSite\\wwwroot\\php\\form-handler.php",
+      "PackagePath": "staticwebassets\\php\\form-handler.php"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.rddSoftwareSite.props",
