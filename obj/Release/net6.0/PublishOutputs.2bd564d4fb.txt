@@ -1,0 +1,11 @@
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\rddSoftwareSite.exe
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\rddSoftwareSite.dll
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\rddSoftwareSite.deps.json
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\rddSoftwareSite.runtimeconfig.json
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\rddSoftwareSite.pdb
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\System.Text.Json.dll
+C:\Repos\rddSoftwareSite\obj\Release\net6.0\PubTmp\Out\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
