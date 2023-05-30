@@ -7,6 +7,8 @@ namespace rddSoftwareSite.Pages
     {
         private readonly ILogger<PrivacyModel> _logger;
 
+        public static readonly string title = "Privacy Policy";
+
         public PrivacyModel(ILogger<PrivacyModel> logger)
         {
             _logger = logger;

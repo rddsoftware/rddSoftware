@@ -278,7 +278,7 @@ label {
 input {
     align-content: center;
     align-self: center;
-    width: 30em;
+    max-width: 30em;
     margin-bottom: 1em;
 }
 

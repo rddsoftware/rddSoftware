@@ -1,7 +1,7 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = IndexModel.title;
 }
 <div class="text-center">
     <h1 class="display-3">Welcome to RDD Software</h1>
@@ -44,14 +44,12 @@
                     <b>Associate Software Engineer</b>
                     G2 Software Systems<br><br>
                     <h4 class="display-6">Languages</h4>
-                    C++<br>
-                    C#<br>
-                    JavaScript/TypeScript<br>
-                    Python<br>
-                    SQL<br>
-                    MIPS<br>
-                    HTML<br>
-                    ASP.NET<br>
+                    <ul>
+                        @foreach (string language in IndexModel.GetLanguages())
+                        {
+                            <li style="list-style: none;">@language</li>
+                        }
+                    </ul>
                 </p>
             </div>
             <div class="card-footer">
